@@ -9,5 +9,8 @@ to easily access the said folder with an alias.
 ![alt text](https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW1_msm796/bashrc_screenshot.png)
 
 ## Proof that showing results of the modification of my .bashrc file
-It just works. 
+It just works.
+![alt text](https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW1_msm796/bashrc_screenshot.png)
+
+## Proof that showing results of the modification of my .bashrc file
 ![alt text](https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW1_msm796/pwd_alias_pwd.png)
