@@ -23,7 +23,7 @@ for x in range(num_buses):
 #for x in range(2):
     long=buses[x]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     lat=buses[x]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    if len(buses[x]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'])==0:
+    if len(buses[x]['MonitoredVehicleJourney']['OnwardCalls'])==0:
         stop_nm="N/A"
         stop_sta="N/A"
     else:
