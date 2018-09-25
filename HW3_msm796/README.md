@@ -1,7 +1,8 @@
 # Homework 3
-###### Entirely done by Marvin Mananghaya (MSM796) - under construction
+###### Entirely done by Marvin Mananghaya (MSM796)
 ###### Assisted Yushi Chen (YC3763) in her assignment 4.
-###### Provided quality assurance checks to Sung Hoog Yang (SHY256) and Manrique Vargas (MV1742)
+###### Assisted Sung Hoog Yang (SHY256) in quality assurance of his assignement 4
+###### Provided some minor tips to Manrique Vargas (MV1742)
 -------------------------------------------------------------------------------------------
 ### Assignment 1
 ###### (note: folder was renamed from hw2_msm796 to hw3_msm796)
