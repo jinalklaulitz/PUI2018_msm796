@@ -1,7 +1,7 @@
 # Homework 3
 ###### Entirely done by Marvin Mananghaya (MSM796)
 ###### Assisted Yushi Chen (YC3763) in her assignment 4.
-###### Assisted Sung Hoog Yang (SHY256) in quality assurance of his assignement 4
+###### Assisted Sung Hoog Yang (SHY256) in quality assurance of his assignment 4
 ###### Provided some minor tips to Manrique Vargas (MV1742)
 -------------------------------------------------------------------------------------------
 ### Assignment 1
