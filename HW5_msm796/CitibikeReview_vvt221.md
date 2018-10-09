@@ -12,8 +12,6 @@ Both the null and alternate hypothesis have been formulated correctly in words a
 ### Testing The Hypothesis:
 
 #### Ho: The proportion of people that bike during the weekends is more or the same to the proportion of people that bike on weekdays
-    
-     $h_0$ : $\dfrac{riders_{weekday}}{riders_{total}} \leqslant  \dfrac{riders_{weekend}}{\mu_{total}}$
 
 #### Data: Citibike data preprocessed to generate samples by weekdays and weekends.
 
