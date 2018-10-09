@@ -8,6 +8,7 @@ Both the null and alternate hypothesis have been formulated correctly in words a
 
 * Preprocessed data shows the whether the day of the ride was a weekend or a weekday, along with the day of the week.
 
+* Ridership was normalised across weekdays and weekends for comparision on an equalised scale.
 
 ### Testing The Hypothesis:
 
