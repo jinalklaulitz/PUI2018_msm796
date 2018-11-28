@@ -5,6 +5,5 @@ Marvin Mananghaya (MSM796); in all assignments for this homework, i had some dis
 Worked with Rachel Sim, Klo'e Ng and Jianwei Li.
 
 ### Assignment 2
-In progress...
-Working with Rachel Sim, Klo'e Ng and Jianwei Li.
+Worked with Rachel Sim, Klo'e Ng and Jianwei Li.
 
