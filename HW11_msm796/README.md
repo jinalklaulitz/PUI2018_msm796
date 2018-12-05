@@ -1,13 +1,11 @@
-WORK IN PROGRESS. COME BACK TO ME LATER. LOL.
-
 # Homework 11
 Marvin Mananghaya (MSM796)
 
 ### Assignment 1
-Worked with Yushi Chen.
+Worked with Yushi Chen and  Keundeok Park. 
 
 ### Assignment 2
-i've visualized the pickup and dropoff magnitude of NYC during June 2018.
+i've visualized the pickup and dropoff magnitude of NYC during June 2018 using Qinyu Goh's comments.
 
 ![dropoff](https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW11_msm796/dropoff_june2018.png)
 ### Figure 1 : This shows the magnitude of the frequency of TLC registered vehicles (Yellow, Green and For hire vehicles) pickups in NYC during June 2018. Manhattan and Brooklyn seem to show more pickups compared to other except. It's quite notable that a particular area in Queens has a high frequenct of pickups, this is just Jamaica area which contains JFK airport.
