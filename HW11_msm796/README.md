@@ -2,7 +2,7 @@
 Marvin Mananghaya (MSM796)
 
 ### Assignment 1
-Worked with Yushi Chen and  Keundeok Park. 
+Worked with Yushi Chen, Tanya Nabila and Keundeok Park. 
 
 ### Assignment 2
 i've visualized the pickup and dropoff magnitude of NYC during June 2018 using Qinyu Goh's comments.
